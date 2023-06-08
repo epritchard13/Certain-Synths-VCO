@@ -1,15 +1,10 @@
 {
   "board": {
-    "active_layer": 44,
-    "active_layer_preset": "All Layers",
+    "active_layer": 0,
+    "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
-    "hidden_nets": [
-      "GND",
-      "-15V",
-      "+15V",
-      "+5V"
-    ],
+    "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
@@ -19,13 +14,12 @@
       "vias": 1.0,
       "zones": 0.6
     },
-    "ratsnest_display_mode": 0,
     "selection_filter": {
       "dimensions": true,
       "footprints": true,
       "graphics": true,
       "keepouts": true,
-      "lockedItems": true,
+      "lockedItems": false,
       "otherItems": true,
       "pads": true,
       "text": true,
@@ -40,6 +34,8 @@
       3,
       4,
       5,
+      6,
+      7,
       8,
       9,
       10,
@@ -67,13 +63,15 @@
       33,
       34,
       35,
-      36
+      36,
+      39,
+      40
     ],
-    "visible_layers": "fffffff_ffffffff",
+    "visible_layers": "001ffff_80000001",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "as3340.kicad_prl",
+    "filename": "LFO.kicad_prl",
     "version": 3
   },
   "project": {
