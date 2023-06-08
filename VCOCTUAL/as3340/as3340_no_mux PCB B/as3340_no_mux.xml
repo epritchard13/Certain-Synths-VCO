@@ -1,0 +1,1985 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\Eddie\Desktop\SYNTH ACTUAL\as3340\as3340_no_mux\as3340_no_mux.kicad_sch</source>
+    <date>4/30/2023 12:18:08 AM</date>
+    <tool>Eeschema (6.0.5)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>as3340_no_mux.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>100nf</value>
+      <footprint>Capacitor_THT:CP_Radial_D4.0mm_P1.50mm</footprint>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>34653daa-1dbc-453c-ab9b-fd259ba563df</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>10nf</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa4422d8-5753-43f5-a91c-29921d14b556</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>1nf</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>69ae9ba8-4b9f-49e2-95cd-83c601747273</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100nf</value>
+      <footprint>Capacitor_THT:CP_Radial_D4.0mm_P1.50mm</footprint>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7b20f3da-ca3e-40cb-b4a0-e0602c8beec5</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>10nf</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d9e61c78-a671-4b27-8b39-aeb985ae0b66</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>1nf</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>978c2854-08d0-478e-9063-d9b592785d5e</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>1nf</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>935a9e3d-5b18-4dc6-962f-f113701437b5</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>1nf</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>10c7f922-ddff-4d4b-8816-42032981fb02</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>10nf</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>59187a5c-b52a-431b-97ee-36322d9a91ef</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>10nf</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cf2b933b-449b-4952-97b7-8ae8fba7a94b</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>1nf</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fc330e20-5943-4237-8257-3cc259a23395</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>1nf</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3c08b122-2cf4-40f7-b350-505d1a06c892</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>DIODE</value>
+      <footprint>Diode_THT:D_A-405_P7.62mm_Horizontal</footprint>
+      <libsource lib="pspice" part="DIODE" description="Diode symbol for simulation only. Pin order incompatible with official kicad footprints"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0f30fd82-fa56-45d1-9460-d340cbd0c941</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>DIODE</value>
+      <footprint>Diode_THT:D_A-405_P7.62mm_Horizontal</footprint>
+      <libsource lib="pspice" part="DIODE" description="Diode symbol for simulation only. Pin order incompatible with official kicad footprints"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dc996b5f-09d5-4806-8b7f-5f2e355c6fc3</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>PWM Input</value>
+      <footprint>Connector_Audio:Jack_3.5mm_PJ320E_Horizontal</footprint>
+      <libsource lib="Connector" part="AudioJack2" description="Audio Jack, 2 Poles (Mono / TS)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2495dd61-10f6-4297-9355-a4d1ee8bc646</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>HardSyncInput</value>
+      <footprint>Connector_Audio:Jack_3.5mm_PJ320E_Horizontal</footprint>
+      <libsource lib="Connector" part="AudioJack2" description="Audio Jack, 2 Poles (Mono / TS)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>55f6698e-1ba2-4ad7-b60a-e0b2624e5c74</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>SoftSyncInput</value>
+      <footprint>Connector_Audio:Jack_3.5mm_PJ320E_Horizontal</footprint>
+      <libsource lib="Connector" part="AudioJack2" description="Audio Jack, 2 Poles (Mono / TS)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e64b16eb-b31d-420d-b30b-accef9111cab</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>LinearFMInput</value>
+      <footprint>Connector_Audio:Jack_3.5mm_PJ320E_Horizontal</footprint>
+      <libsource lib="Connector" part="AudioJack2" description="Audio Jack, 2 Poles (Mono / TS)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>81cc8484-77fe-4e56-a3bf-007dfe266239</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>CV1</value>
+      <footprint>Connector_Audio:Jack_3.5mm_PJ320E_Horizontal</footprint>
+      <libsource lib="Connector" part="AudioJack2" description="Audio Jack, 2 Poles (Mono / TS)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>544dde26-a717-4f55-a2b8-53af89a4872e</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>PWM Input</value>
+      <footprint>Connector_Audio:Jack_3.5mm_PJ320E_Horizontal</footprint>
+      <libsource lib="Connector" part="AudioJack2" description="Audio Jack, 2 Poles (Mono / TS)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>998b5f57-ee26-4ac5-8395-291c214e94be</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>HardSyncInput</value>
+      <footprint>Connector_Audio:Jack_3.5mm_PJ320E_Horizontal</footprint>
+      <libsource lib="Connector" part="AudioJack2" description="Audio Jack, 2 Poles (Mono / TS)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0dd68591-f7f1-45d1-9039-f93e6b23cfdc</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>SoftSyncInput</value>
+      <footprint>Connector_Audio:Jack_3.5mm_PJ320E_Horizontal</footprint>
+      <libsource lib="Connector" part="AudioJack2" description="Audio Jack, 2 Poles (Mono / TS)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e6a5732-7083-4bb1-87c1-59bd34afe618</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>LinearFMInput</value>
+      <footprint>Connector_Audio:Jack_3.5mm_PJ320E_Horizontal</footprint>
+      <libsource lib="Connector" part="AudioJack2" description="Audio Jack, 2 Poles (Mono / TS)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>002041e9-972e-42a3-811c-ab72b9774898</tstamps>
+    </comp>
+    <comp ref="J10">
+      <value>CV1</value>
+      <footprint>Connector_Audio:Jack_3.5mm_PJ320E_Horizontal</footprint>
+      <libsource lib="Connector" part="AudioJack2" description="Audio Jack, 2 Poles (Mono / TS)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>40f71fae-393e-4070-951b-bb34497a67a2</tstamps>
+    </comp>
+    <comp ref="J11">
+      <value>Conn_02x05_Odd_Even</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_02x05_Odd_Even" description="Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8824c4e3-30c1-4237-9218-21f0495e114f</tstamps>
+    </comp>
+    <comp ref="J12">
+      <value>SQR OUT</value>
+      <footprint>Connector_Audio:Jack_3.5mm_PJ320E_Horizontal</footprint>
+      <libsource lib="Connector" part="AudioJack2" description="Audio Jack, 2 Poles (Mono / TS)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6e8bda44-a182-4c0f-8a37-1c9cc51339bd</tstamps>
+    </comp>
+    <comp ref="J13">
+      <value>SAW OUT</value>
+      <footprint>Connector_Audio:Jack_3.5mm_PJ320E_Horizontal</footprint>
+      <libsource lib="Connector" part="AudioJack2" description="Audio Jack, 2 Poles (Mono / TS)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>743df9e0-55f3-4a58-aa64-e2b98a522ad7</tstamps>
+    </comp>
+    <comp ref="J14">
+      <value>TRI OUT</value>
+      <footprint>Connector_Audio:Jack_3.5mm_PJ320E_Horizontal</footprint>
+      <libsource lib="Connector" part="AudioJack2" description="Audio Jack, 2 Poles (Mono / TS)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e1ec5b35-72fe-4866-8cb4-5130eb924dc7</tstamps>
+    </comp>
+    <comp ref="J15">
+      <value>SIN OUT</value>
+      <footprint>Connector_Audio:Jack_3.5mm_PJ320E_Horizontal</footprint>
+      <libsource lib="Connector" part="AudioJack2" description="Audio Jack, 2 Poles (Mono / TS)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e6d9f31d-e417-4218-b6eb-c70247d40ddc</tstamps>
+    </comp>
+    <comp ref="J16">
+      <value>SQR OUT</value>
+      <footprint>Connector_Audio:Jack_3.5mm_PJ320E_Horizontal</footprint>
+      <libsource lib="Connector" part="AudioJack2" description="Audio Jack, 2 Poles (Mono / TS)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5cd8ab76-06f1-4342-a278-4d67560d0b91</tstamps>
+    </comp>
+    <comp ref="J17">
+      <value>SAW OUT</value>
+      <footprint>Connector_Audio:Jack_3.5mm_PJ320E_Horizontal</footprint>
+      <libsource lib="Connector" part="AudioJack2" description="Audio Jack, 2 Poles (Mono / TS)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ca8052f7-1937-42d0-9c08-294594f092f6</tstamps>
+    </comp>
+    <comp ref="J18">
+      <value>TRI OUT</value>
+      <footprint>Connector_Audio:Jack_3.5mm_PJ320E_Horizontal</footprint>
+      <libsource lib="Connector" part="AudioJack2" description="Audio Jack, 2 Poles (Mono / TS)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d0f5c6c4-7718-46c9-abbf-3d286df8ef6d</tstamps>
+    </comp>
+    <comp ref="J19">
+      <value>SIN OUT</value>
+      <footprint>Connector_Audio:Jack_3.5mm_PJ320E_Horizontal</footprint>
+      <libsource lib="Connector" part="AudioJack2" description="Audio Jack, 2 Poles (Mono / TS)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ce3ef075-5cba-43eb-9b03-a6a570fe8da6</tstamps>
+    </comp>
+    <comp ref="PWM1">
+      <value>100kPot</value>
+      <footprint>Potentiometer_THT:Potentiometer_Vishay_148-149_Single_Horizontal</footprint>
+      <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1b78c0dd-2d50-42cd-8081-cbe8eb3e498c</tstamps>
+    </comp>
+    <comp ref="PWM2">
+      <value>100kPot</value>
+      <footprint>Potentiometer_THT:Potentiometer_Vishay_148-149_Single_Horizontal</footprint>
+      <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>97ee2eb4-e1d0-4005-b3f1-140043da9a5f</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bf9c7163-1677-49af-8950-36f708e6086c</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>65ae5bb9-ab81-480e-ae09-1f1d521ed0ad</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ecbd50e9-9ecf-4157-ba2d-7f066c45a01a</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>47k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f76eaa36-74cd-4540-bb45-961c3a1ca073</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>47k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c98ae830-bd4f-422e-af72-65b452072d1d</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>100k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>70a61937-655c-48ba-9292-9811b98be8f5</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>100k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6a57332e-1fa5-4aa0-bade-0b4242ab1b59</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>47k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5d9126ba-4bf2-48cc-a5bb-758174c75688</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>47k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fdacf8d6-461d-45ad-87fb-e6585a4b32e0</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>1.5M</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dada8ebb-6133-4943-886d-ecacf210374a</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>1M</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7a5d11bd-1769-461a-9235-162411a75d1b</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ad601eed-b19d-4ac7-8de5-31d395098b32</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>1.5M</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0a21dcc0-f848-4ad6-9e06-86fa09ad336e</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>1M</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>587321ce-197e-4599-a83a-fca941a57b59</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5ea1dded-cb4c-4f10-bfda-8d9ccc752627</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>100k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6dc02f9d-4ec4-443f-b98d-68874720f6ca</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>1M</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>92624e09-0112-460e-b3eb-4655cb654153</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>100k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>de1f2755-4f6f-470c-a73c-fb0df85b9b56</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>1M</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6d51ace9-d8ae-444a-a573-09041a186388</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>100k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1f1bc21c-e22e-4c06-b0f0-8f91ca6edf56</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>1M</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e5d0b371-e9eb-4a7a-93a2-855327823bdf</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>1M</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dcbd1341-f3ff-4f85-8a6a-73b7c4dba388</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>100k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bd047dd1-bc1c-4be6-ba25-1ca186bc35ad</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>185b22e4-0042-4787-88da-04c76bfe971c</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a21cba25-1bd8-4388-bde6-fa56e7fa3580</tstamps>
+    </comp>
+    <comp ref="R26">
+      <value>200k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aa7746d0-5b94-4d7b-844d-d9d15dd860c1</tstamps>
+    </comp>
+    <comp ref="R27">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9520d808-bc1d-48ab-bf6a-533f3a773026</tstamps>
+    </comp>
+    <comp ref="R28">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7aba6179-bd0e-42a7-b944-3340463bd15b</tstamps>
+    </comp>
+    <comp ref="R29">
+      <value>200k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ed75e1ee-6afd-417c-803d-93e2448015cc</tstamps>
+    </comp>
+    <comp ref="R30">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1e28ffc8-6be6-43a2-b161-b84fe842e64f</tstamps>
+    </comp>
+    <comp ref="R31">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2034c8bb-61e8-45b4-a26a-73e6848482b5</tstamps>
+    </comp>
+    <comp ref="R32">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bb5cca3d-c6b3-4b3c-9b79-20b9561a6922</tstamps>
+    </comp>
+    <comp ref="R33">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4b060f05-a91d-403a-9ca9-324a4441c348</tstamps>
+    </comp>
+    <comp ref="R34">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>09717219-a5a3-473b-b61b-7bfb76585ab7</tstamps>
+    </comp>
+    <comp ref="R35">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6543be2f-8df3-4419-92c0-d76e1dd0216e</tstamps>
+    </comp>
+    <comp ref="R36">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>504a1622-acb9-472a-a844-5d80bfaefae9</tstamps>
+    </comp>
+    <comp ref="R37">
+      <value>1M</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2f1d2954-7e51-453e-a57c-6307649106da</tstamps>
+    </comp>
+    <comp ref="R38">
+      <value>24k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a2a7dfcb-360b-4b8e-b569-ed714091c08e</tstamps>
+    </comp>
+    <comp ref="R39">
+      <value>5.6k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>457eb76b-6f7b-48b2-ab86-eb6ee3b230d8</tstamps>
+    </comp>
+    <comp ref="R40">
+      <value>47k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5cb74a30-7405-4389-8d1a-f2a9cbb88f05</tstamps>
+    </comp>
+    <comp ref="R41">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>19f0a619-0b70-4d23-ae28-7d66242b37c1</tstamps>
+    </comp>
+    <comp ref="R42">
+      <value>1M</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>369f5a01-d92d-4aa4-b60d-033a87a34721</tstamps>
+    </comp>
+    <comp ref="R43">
+      <value>24k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>89d03ff6-63a5-4aeb-9a4f-d6bfa17a40f4</tstamps>
+    </comp>
+    <comp ref="R44">
+      <value>5.6k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>baf42df1-cc79-4565-a6f7-2a74f714f831</tstamps>
+    </comp>
+    <comp ref="R45">
+      <value>47k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4226da5d-d493-4c9b-a2d1-f61d127d74aa</tstamps>
+    </comp>
+    <comp ref="R46">
+      <value>1.8k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>909651ff-3308-4bb0-b8ce-da75a2c94f49</tstamps>
+    </comp>
+    <comp ref="R47">
+      <value>1.8k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7e9c4e9b-2719-4a31-a073-85066eb2854a</tstamps>
+    </comp>
+    <comp ref="R48">
+      <value>47k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>55c81fd3-e87c-41d8-8ef2-7eb2ac8ea3a0</tstamps>
+    </comp>
+    <comp ref="R49">
+      <value>47k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b729fc56-5398-4b56-944c-756cd0f781d5</tstamps>
+    </comp>
+    <comp ref="R50">
+      <value>910</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dcb03d0f-8de4-4511-9e16-59dc70582299</tstamps>
+    </comp>
+    <comp ref="R51">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2808ef9e-2118-475d-ab35-8a280f420834</tstamps>
+    </comp>
+    <comp ref="R52">
+      <value>910</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5c095136-a443-4fbb-ad7b-2fae2236f698</tstamps>
+    </comp>
+    <comp ref="R53">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2fd85bc0-2fe5-4dec-b3b6-43879a40822e</tstamps>
+    </comp>
+    <comp ref="R54">
+      <value>20k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1c82fdf9-c97b-485b-ad57-b17e3bc37afd</tstamps>
+    </comp>
+    <comp ref="R55">
+      <value>470k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>15ebc0f1-7d75-4b12-8aae-776057bc0acd</tstamps>
+    </comp>
+    <comp ref="R56">
+      <value>20k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dd21e6d7-7967-416c-8771-e11b0e59c29c</tstamps>
+    </comp>
+    <comp ref="R57">
+      <value>470k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9bee564c-9430-4bed-ae75-1932a6f478d8</tstamps>
+    </comp>
+    <comp ref="R58">
+      <value>2k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dbbbf699-0884-4b72-835c-4fdc5cf926bf</tstamps>
+    </comp>
+    <comp ref="R59">
+      <value>2k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2aaa161a-a519-4535-a90a-78cd76b22559</tstamps>
+    </comp>
+    <comp ref="R60">
+      <value>47k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>58a5f596-17d4-47b1-afbb-5504117ae485</tstamps>
+    </comp>
+    <comp ref="R61">
+      <value>47k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ab192c2a-c995-4d71-91e2-eae4dfe0f5dd</tstamps>
+    </comp>
+    <comp ref="R62">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f39c019d-555d-4684-8b67-ef654803b33a</tstamps>
+    </comp>
+    <comp ref="R63">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c5223440-d3c1-4351-8b1d-c2ea72670c17</tstamps>
+    </comp>
+    <comp ref="R64">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e36794a4-a27a-4672-8f9e-e7a463edd360</tstamps>
+    </comp>
+    <comp ref="R65">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d1993957-7d2a-4a84-b511-740eea842bd8</tstamps>
+    </comp>
+    <comp ref="R66">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2b4d12fa-174b-494b-86a4-ad6eb4798a1b</tstamps>
+    </comp>
+    <comp ref="R67">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>880984fa-306b-4357-98c1-a2ad4b892558</tstamps>
+    </comp>
+    <comp ref="R68">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ba841632-2f36-45b1-bdc7-0365b394174c</tstamps>
+    </comp>
+    <comp ref="R69">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2b01c11d-2194-4ac8-8164-f165cb91561d</tstamps>
+    </comp>
+    <comp ref="R70">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>481a751c-336e-4b09-b53d-4afd4959f0a5</tstamps>
+    </comp>
+    <comp ref="R71">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7bcf5929-0fea-4ae2-8dac-45bf3fb34e73</tstamps>
+    </comp>
+    <comp ref="R72">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b0b844ad-c9de-4948-b7aa-88e12483789a</tstamps>
+    </comp>
+    <comp ref="R73">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>882d1623-14a2-4a03-ab20-8ba64f599ddf</tstamps>
+    </comp>
+    <comp ref="RV1">
+      <value>100kPot</value>
+      <footprint>Potentiometer_THT:Potentiometer_Vishay_148-149_Single_Horizontal</footprint>
+      <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9053d46a-c041-4224-bc69-cf910f385c22</tstamps>
+    </comp>
+    <comp ref="RV2">
+      <value>100kPot</value>
+      <footprint>Potentiometer_THT:Potentiometer_Vishay_148-149_Single_Horizontal</footprint>
+      <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>72022cf6-566a-4139-968a-feb785f163bf</tstamps>
+    </comp>
+    <comp ref="RV3">
+      <value>100kPot</value>
+      <footprint>Potentiometer_THT:Potentiometer_Vishay_148-149_Single_Horizontal</footprint>
+      <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>69da0c77-d362-4ad9-b424-6759c58a4233</tstamps>
+    </comp>
+    <comp ref="RV4">
+      <value>100kPot</value>
+      <footprint>Potentiometer_THT:Potentiometer_Vishay_148-149_Single_Horizontal</footprint>
+      <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>54f5a935-de8d-494e-ba2a-bc11a70fa0bb</tstamps>
+    </comp>
+    <comp ref="RV5">
+      <value>20k Pot</value>
+      <footprint>Potentiometer_THT:Potentiometer_ACP_CA6-H2,5_Horizontal</footprint>
+      <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>50670c12-57b5-4879-b79c-1e82aa90f017</tstamps>
+    </comp>
+    <comp ref="RV6">
+      <value>10k Pot</value>
+      <footprint>Potentiometer_THT:Potentiometer_ACP_CA6-H2,5_Horizontal</footprint>
+      <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6d6ac795-e82a-4ac9-b092-7632521e4106</tstamps>
+    </comp>
+    <comp ref="RV7">
+      <value>100k Pot</value>
+      <footprint>Potentiometer_THT:Potentiometer_ACP_CA6-H2,5_Horizontal</footprint>
+      <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1bceb57d-9527-44d9-9450-36523eaa6326</tstamps>
+    </comp>
+    <comp ref="RV8">
+      <value>100k Pot</value>
+      <footprint>Potentiometer_THT:Potentiometer_ACP_CA6-H2,5_Horizontal</footprint>
+      <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f127f0c6-790f-41f2-b4c2-5a71712af897</tstamps>
+    </comp>
+    <comp ref="RV9">
+      <value>10k Pot</value>
+      <footprint>Potentiometer_THT:Potentiometer_ACP_CA6-H2,5_Horizontal</footprint>
+      <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>536d2731-9922-4f18-935c-d0b13c97d21c</tstamps>
+    </comp>
+    <comp ref="RV10">
+      <value>10k Pot</value>
+      <footprint>Potentiometer_THT:Potentiometer_ACP_CA6-H2,5_Horizontal</footprint>
+      <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5cadb008-4195-4dd6-afe6-15a3f999bcd5</tstamps>
+    </comp>
+    <comp ref="SineBiasTrim1">
+      <value>100k Pot</value>
+      <footprint>Potentiometer_THT:Potentiometer_ACP_CA6-H2,5_Horizontal</footprint>
+      <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b587511e-e240-47d6-8f92-ba26416cfbbe</tstamps>
+    </comp>
+    <comp ref="SineBiasTrim2">
+      <value>100k Pot</value>
+      <footprint>Potentiometer_THT:Potentiometer_ACP_CA6-H2,5_Horizontal</footprint>
+      <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eedd00ef-981f-4723-89b8-0a524f1adf11</tstamps>
+    </comp>
+    <comp ref="SineLevelTrim1">
+      <value>1M Pot</value>
+      <footprint>Potentiometer_THT:Potentiometer_ACP_CA6-H2,5_Horizontal</footprint>
+      <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a82430c1-dc09-49b4-9434-8c04667e0e67</tstamps>
+    </comp>
+    <comp ref="SineLevelTrim2">
+      <value>1M Pot</value>
+      <footprint>Potentiometer_THT:Potentiometer_ACP_CA6-H2,5_Horizontal</footprint>
+      <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f195f157-f7ce-4477-87af-685104ca7e01</tstamps>
+    </comp>
+    <comp ref="SineShapeTrim1">
+      <value>100k Pot</value>
+      <footprint>Potentiometer_THT:Potentiometer_ACP_CA6-H2,5_Horizontal</footprint>
+      <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>acb52acc-5069-4c35-9469-35e5569a7a17</tstamps>
+    </comp>
+    <comp ref="SineShapeTrim2">
+      <value>100k Pot</value>
+      <footprint>Potentiometer_THT:Potentiometer_ACP_CA6-H2,5_Horizontal</footprint>
+      <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b2a36420-c750-47c2-8ae9-0ab3a3aad248</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>LM13700</value>
+      <footprint>Package_DIP:DIP-16_W7.62mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/lm13700.pdf</datasheet>
+      <libsource lib="Amplifier_Operational" part="LM13700" description="Dual Operational Transconductance Amplifiers with Linearizing Diodes and Buffers, DIP-16/SOIC-16"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4ad61e91-d2da-4b5f-8b37-6f9a323937ef a0e10e52-023d-44b7-b0cf-25c05b97d2b3 190a4a47-374d-4888-9915-22ae4aafa8d0 66c053e6-9cd8-4f5a-9ee6-21b649ca61f0 0911ed5b-079d-46ae-ba56-2f583046587e</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>AS3340</value>
+      <footprint>Package_DIP:DIP-16_W7.62mm</footprint>
+      <datasheet>http://www.alfarzpp.lv/eng/sc/AS3340.pdf</datasheet>
+      <libsource lib="Audio" part="AS3340" description="Voltage Controlled Oscillator (VCO), DIP-16/SOIC-16"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>26b31fa4-7d92-4e2d-80ec-f69f2feadba3</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>AS3340</value>
+      <footprint>Package_DIP:DIP-16_W7.62mm</footprint>
+      <datasheet>http://www.alfarzpp.lv/eng/sc/AS3340.pdf</datasheet>
+      <libsource lib="Audio" part="AS3340" description="Voltage Controlled Oscillator (VCO), DIP-16/SOIC-16"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f3f0bafd-8d61-4b45-a396-901d56c6e170</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>LM324</value>
+      <footprint>Package_DIP:DIP-14_W7.62mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/lm2902-n.pdf</datasheet>
+      <libsource lib="Amplifier_Operational" part="LM324" description="Low-Power, Quad-Operational Amplifiers, DIP-14/SOIC-14/SSOP-14"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ec0edc14-9762-4974-b83f-4603de024bf0 89ee9240-6a89-4473-829a-cc592b8e641e c7568ca0-144d-453d-b775-691c65a1a14c fd8e4386-e557-44a6-926c-430fbc550659 099f8fc5-ecd0-4594-bfb2-27846dc3572f</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>LM324</value>
+      <footprint>Package_DIP:DIP-14_W7.62mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/lm2902-n.pdf</datasheet>
+      <libsource lib="Amplifier_Operational" part="LM324" description="Low-Power, Quad-Operational Amplifiers, DIP-14/SOIC-14/SSOP-14"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="as3340_no_mux.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c6a75379-666d-47cf-8ae6-56967f576899 ce53ecd3-a6bf-4cd9-8b1e-4c636868621e c2e69723-514c-48b8-86d0-1269948ebc85 9f7638b4-4c40-4ccc-86a3-ea50471c066d 40e67ab0-815f-40a4-a3ee-df1cb1a13c60</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Amplifier_Operational" part="LM13700">
+      <description>Dual Operational Transconductance Amplifiers with Linearizing Diodes and Buffers, DIP-16/SOIC-16</description>
+      <docs>http://www.ti.com/lit/ds/symlink/lm13700.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x9.9mm*P1.27mm*</fp>
+        <fp>DIP*W7.62mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM13700</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/lm13700.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="DIODE_BIAS" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="-" type="input"/>
+        <pin num="5" name="" type="output"/>
+        <pin num="6" name="V-" type="power_in"/>
+        <pin num="7" name="" type="input"/>
+        <pin num="8" name="" type="output"/>
+        <pin num="9" name="" type="output"/>
+        <pin num="10" name="" type="input"/>
+        <pin num="11" name="V+" type="power_in"/>
+        <pin num="12" name="" type="output"/>
+        <pin num="13" name="-" type="input"/>
+        <pin num="14" name="+" type="input"/>
+        <pin num="15" name="DIODE_BIAS" type="input"/>
+        <pin num="16" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Amplifier_Operational" part="LM324">
+      <description>Low-Power, Quad-Operational Amplifiers, DIP-14/SOIC-14/SSOP-14</description>
+      <docs>http://www.ti.com/lit/ds/symlink/lm2902-n.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x8.7mm*P1.27mm*</fp>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>TSSOP*4.4x5mm*P0.65mm*</fp>
+        <fp>SSOP*5.3x6.2mm*P0.65mm*</fp>
+        <fp>MSOP*3x3mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM324</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/lm2902-n.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="output"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="V+" type="power_in"/>
+        <pin num="5" name="+" type="input"/>
+        <pin num="6" name="-" type="input"/>
+        <pin num="7" name="" type="output"/>
+        <pin num="8" name="" type="output"/>
+        <pin num="9" name="-" type="input"/>
+        <pin num="10" name="+" type="input"/>
+        <pin num="11" name="V-" type="power_in"/>
+        <pin num="12" name="+" type="input"/>
+        <pin num="13" name="-" type="input"/>
+        <pin num="14" name="" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="Audio" part="AS3340">
+      <description>Voltage Controlled Oscillator (VCO), DIP-16/SOIC-16</description>
+      <docs>http://www.alfarzpp.lv/eng/sc/AS3340.pdf</docs>
+      <footprints>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>SOIC*3.9x9.9mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AS3340</field>
+        <field name="Datasheet">http://www.alfarzpp.lv/eng/sc/AS3340.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="SCALE1" type="input"/>
+        <pin num="2" name="SCALE2" type="input"/>
+        <pin num="3" name="VEE" type="power_in"/>
+        <pin num="4" name="VP" type="output"/>
+        <pin num="5" name="VPWM" type="input"/>
+        <pin num="6" name="VHSI" type="input"/>
+        <pin num="7" name="VHFT" type="input"/>
+        <pin num="8" name="VSO" type="output"/>
+        <pin num="9" name="VSSI" type="input"/>
+        <pin num="10" name="VTO" type="output"/>
+        <pin num="11" name="CAP" type="passive"/>
+        <pin num="12" name="GND" type="power_in"/>
+        <pin num="13" name="VLFI" type="input"/>
+        <pin num="14" name="VS" type="passive"/>
+        <pin num="15" name="VFCI" type="input"/>
+        <pin num="16" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="AudioJack2">
+      <description>Audio Jack, 2 Poles (Mono / TS)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Jack*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">AudioJack2</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="S" name="" type="passive"/>
+        <pin num="T" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x05_Odd_Even">
+      <description>Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x05_Odd_Even</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Potentiometer">
+      <description>Potentiometer</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Potentiometer*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">R_Potentiometer</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="pspice" part="C">
+      <description>Capacitor symbol for simulation only</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="pspice" part="DIODE">
+      <description>Diode symbol for simulation only. Pin order incompatible with official kicad footprints</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">DIODE</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="input"/>
+        <pin num="2" name="A" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Amplifier_Operational">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Amplifier_Operational.kicad_sym</uri>
+    </library>
+    <library logical="Audio">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Audio.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="pspice">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/pspice.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+15V">
+      <node ref="J11" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="J11" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="R37" pin="1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R42" pin="1" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="RV7" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="RV8" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="SineBiasTrim1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="SineBiasTrim2" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="SineLevelTrim1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="SineLevelTrim2" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U1" pin="10" pintype="input"/>
+      <node ref="U1" pin="11" pinfunction="V+" pintype="power_in"/>
+      <node ref="U1" pin="7" pintype="input"/>
+      <node ref="U2" pin="16" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U3" pin="16" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U4" pin="4" pinfunction="V+" pintype="power_in"/>
+      <node ref="U5" pin="4" pinfunction="V+" pintype="power_in"/>
+    </net>
+    <net code="2" name="-15V">
+      <node ref="J11" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J11" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R34" pin="1" pintype="passive"/>
+      <node ref="R35" pin="1" pintype="passive"/>
+      <node ref="R50" pin="2" pintype="passive"/>
+      <node ref="R52" pin="2" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="SineBiasTrim1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SineBiasTrim2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="V-" pintype="power_in"/>
+      <node ref="U4" pin="11" pinfunction="V-" pintype="power_in"/>
+      <node ref="U5" pin="11" pinfunction="V-" pintype="power_in"/>
+    </net>
+    <net code="3" name="GND">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="input"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="input"/>
+      <node ref="J1" pin="S" pintype="passive"/>
+      <node ref="J10" pin="S" pintype="passive"/>
+      <node ref="J11" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J11" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J11" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J11" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J11" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="J11" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="J12" pin="S" pintype="passive"/>
+      <node ref="J13" pin="S" pintype="passive"/>
+      <node ref="J14" pin="S" pintype="passive"/>
+      <node ref="J15" pin="S" pintype="passive"/>
+      <node ref="J16" pin="S" pintype="passive"/>
+      <node ref="J17" pin="S" pintype="passive"/>
+      <node ref="J18" pin="S" pintype="passive"/>
+      <node ref="J19" pin="S" pintype="passive"/>
+      <node ref="J2" pin="S" pintype="passive"/>
+      <node ref="J3" pin="S" pintype="passive"/>
+      <node ref="J4" pin="S" pintype="passive"/>
+      <node ref="J5" pin="S" pintype="passive"/>
+      <node ref="J6" pin="S" pintype="passive"/>
+      <node ref="J7" pin="S" pintype="passive"/>
+      <node ref="J8" pin="S" pintype="passive"/>
+      <node ref="J9" pin="S" pintype="passive"/>
+      <node ref="PWM1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="PWM2" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="R46" pin="2" pintype="passive"/>
+      <node ref="R47" pin="2" pintype="passive"/>
+      <node ref="R48" pin="2" pintype="passive"/>
+      <node ref="R49" pin="2" pintype="passive"/>
+      <node ref="R60" pin="2" pintype="passive"/>
+      <node ref="R61" pin="2" pintype="passive"/>
+      <node ref="R62" pin="1" pintype="passive"/>
+      <node ref="R63" pin="1" pintype="passive"/>
+      <node ref="RV5" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="RV6" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U2" pin="12" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="12" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="4" name="Net-(C1-Pad1)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(C1-Pad2)">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="J4" pin="T" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(C2-Pad2)">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="J3" pin="T" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(C3-Pad2)">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="U2" pin="9" pinfunction="VSSI" pintype="input"/>
+    </net>
+    <net code="9" name="Net-(C4-Pad1)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(C4-Pad2)">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="J9" pin="T" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(C5-Pad2)">
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(C6-Pad1)">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="J8" pin="T" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(C6-Pad2)">
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="U3" pin="9" pinfunction="VSSI" pintype="input"/>
+    </net>
+    <net code="14" name="Net-(C7-Pad1)">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="J2" pin="T" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(C7-Pad2)">
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="VHSI" pintype="input"/>
+    </net>
+    <net code="16" name="Net-(C8-Pad1)">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="J7" pin="T" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(C8-Pad2)">
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="U3" pin="6" pinfunction="VHSI" pintype="input"/>
+    </net>
+    <net code="18" name="Net-(C9-Pad1)">
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="R25" pin="1" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(C10-Pad1)">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="R28" pin="1" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(C11-Pad2)">
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="U2" pin="11" pinfunction="CAP" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(C12-Pad2)">
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="U3" pin="11" pinfunction="CAP" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="input"/>
+      <node ref="R58" pin="2" pintype="passive"/>
+      <node ref="R60" pin="1" pintype="passive"/>
+      <node ref="U4" pin="10" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="23" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="input"/>
+      <node ref="R59" pin="2" pintype="passive"/>
+      <node ref="R61" pin="1" pintype="passive"/>
+      <node ref="U5" pin="10" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="24" name="Net-(J1-PadT)">
+      <node ref="J1" pin="T" pintype="passive"/>
+      <node ref="R40" pin="1" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(J5-PadT)">
+      <node ref="J5" pin="T" pintype="passive"/>
+      <node ref="R24" pin="2" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(J6-PadT)">
+      <node ref="J6" pin="T" pintype="passive"/>
+      <node ref="R45" pin="1" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(J10-PadT)">
+      <node ref="J10" pin="T" pintype="passive"/>
+      <node ref="R27" pin="2" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(J12-PadT)">
+      <node ref="J12" pin="T" pintype="passive"/>
+      <node ref="R66" pin="2" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(J13-PadT)">
+      <node ref="J13" pin="T" pintype="passive"/>
+      <node ref="R67" pin="2" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(J14-PadT)">
+      <node ref="J14" pin="T" pintype="passive"/>
+      <node ref="R68" pin="2" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(J15-PadT)">
+      <node ref="J15" pin="T" pintype="passive"/>
+      <node ref="R69" pin="2" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(J16-PadT)">
+      <node ref="J16" pin="T" pintype="passive"/>
+      <node ref="R70" pin="2" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(J17-PadT)">
+      <node ref="J17" pin="T" pintype="passive"/>
+      <node ref="R71" pin="2" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(J18-PadT)">
+      <node ref="J18" pin="T" pintype="passive"/>
+      <node ref="R72" pin="2" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(J19-PadT)">
+      <node ref="J19" pin="T" pintype="passive"/>
+      <node ref="R73" pin="2" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(PWM1-Pad1)">
+      <node ref="PWM1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(PWM2-Pad1)">
+      <node ref="PWM2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(R1-Pad2)">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="R24" pin="1" pintype="passive"/>
+      <node ref="R25" pin="2" pintype="passive"/>
+      <node ref="R26" pin="2" pintype="passive"/>
+      <node ref="R30" pin="1" pintype="passive"/>
+      <node ref="R32" pin="1" pintype="passive"/>
+      <node ref="U2" pin="15" pinfunction="VFCI" pintype="input"/>
+    </net>
+    <net code="39" name="Net-(R2-Pad2)">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="RV1" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(R3-Pad2)">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="RV2" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(R6-Pad2)">
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="RV3" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(R7-Pad2)">
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="RV4" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(R8-Pad1)">
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="RV1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(R9-Pad1)">
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="RV2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(R10-Pad2)">
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="U2" pin="13" pinfunction="VLFI" pintype="input"/>
+    </net>
+    <net code="46" name="Net-(R13-Pad2)">
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="U3" pin="13" pinfunction="VLFI" pintype="input"/>
+    </net>
+    <net code="47" name="Net-(R16-Pad1)">
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="RV3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(R17-Pad2)">
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="RV5" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(R18-Pad1)">
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="RV4" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="50" name="Net-(R19-Pad1)">
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="RV3" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(R19-Pad2)">
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="R30" pin="2" pintype="passive"/>
+    </net>
+    <net code="52" name="Net-(R20-Pad1)">
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="RV1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(R20-Pad2)">
+      <node ref="R20" pin="2" pintype="passive"/>
+      <node ref="R32" pin="2" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(R21-Pad1)">
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="R27" pin="1" pintype="passive"/>
+      <node ref="R28" pin="2" pintype="passive"/>
+      <node ref="R29" pin="2" pintype="passive"/>
+      <node ref="R31" pin="1" pintype="passive"/>
+      <node ref="R33" pin="1" pintype="passive"/>
+      <node ref="U3" pin="15" pinfunction="VFCI" pintype="input"/>
+    </net>
+    <net code="55" name="Net-(R21-Pad2)">
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="RV6" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="56" name="Net-(R22-Pad1)">
+      <node ref="R22" pin="1" pintype="passive"/>
+      <node ref="RV4" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(R22-Pad2)">
+      <node ref="R22" pin="2" pintype="passive"/>
+      <node ref="R31" pin="2" pintype="passive"/>
+    </net>
+    <net code="58" name="Net-(R23-Pad1)">
+      <node ref="R23" pin="1" pintype="passive"/>
+      <node ref="RV2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="59" name="Net-(R23-Pad2)">
+      <node ref="R23" pin="2" pintype="passive"/>
+      <node ref="R33" pin="2" pintype="passive"/>
+    </net>
+    <net code="60" name="Net-(R26-Pad1)">
+      <node ref="R26" pin="1" pintype="passive"/>
+      <node ref="RV7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="RV7" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="61" name="Net-(R29-Pad1)">
+      <node ref="R29" pin="1" pintype="passive"/>
+      <node ref="RV8" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="RV8" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="62" name="Net-(R34-Pad2)">
+      <node ref="R34" pin="2" pintype="passive"/>
+      <node ref="U1" pin="9" pintype="output"/>
+      <node ref="U4" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="63" name="Net-(R35-Pad2)">
+      <node ref="R35" pin="2" pintype="passive"/>
+      <node ref="U1" pin="8" pintype="output"/>
+      <node ref="U5" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="64" name="Net-(R36-Pad1)">
+      <node ref="R36" pin="1" pintype="passive"/>
+      <node ref="SineLevelTrim1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SineLevelTrim1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="65" name="Net-(R36-Pad2)">
+      <node ref="R36" pin="2" pintype="passive"/>
+      <node ref="U1" pin="16" pintype="input"/>
+    </net>
+    <net code="66" name="Net-(R37-Pad2)">
+      <node ref="R37" pin="2" pintype="passive"/>
+      <node ref="U1" pin="12" pintype="output"/>
+    </net>
+    <net code="67" name="Net-(R38-Pad1)">
+      <node ref="R38" pin="1" pintype="passive"/>
+      <node ref="RV9" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="68" name="Net-(R38-Pad2)">
+      <node ref="R38" pin="2" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="SCALE1" pintype="input"/>
+    </net>
+    <net code="69" name="Net-(R39-Pad1)">
+      <node ref="R39" pin="1" pintype="passive"/>
+      <node ref="R50" pin="1" pintype="passive"/>
+      <node ref="RV9" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="RV9" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="VEE" pintype="power_in"/>
+    </net>
+    <net code="70" name="Net-(R39-Pad2)">
+      <node ref="R39" pin="2" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="SCALE2" pintype="input"/>
+    </net>
+    <net code="71" name="Net-(R40-Pad2)">
+      <node ref="R40" pin="2" pintype="passive"/>
+      <node ref="R48" pin="1" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="VPWM" pintype="input"/>
+    </net>
+    <net code="72" name="Net-(R41-Pad1)">
+      <node ref="R41" pin="1" pintype="passive"/>
+      <node ref="SineLevelTrim2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SineLevelTrim2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="73" name="Net-(R41-Pad2)">
+      <node ref="R41" pin="2" pintype="passive"/>
+      <node ref="U1" pin="1" pintype="input"/>
+    </net>
+    <net code="74" name="Net-(R42-Pad2)">
+      <node ref="R42" pin="2" pintype="passive"/>
+      <node ref="U1" pin="5" pintype="output"/>
+    </net>
+    <net code="75" name="Net-(R43-Pad1)">
+      <node ref="R43" pin="1" pintype="passive"/>
+      <node ref="RV10" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="76" name="Net-(R43-Pad2)">
+      <node ref="R43" pin="2" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="SCALE1" pintype="input"/>
+    </net>
+    <net code="77" name="Net-(R44-Pad1)">
+      <node ref="R44" pin="1" pintype="passive"/>
+      <node ref="R52" pin="1" pintype="passive"/>
+      <node ref="RV10" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="RV10" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="VEE" pintype="power_in"/>
+    </net>
+    <net code="78" name="Net-(R44-Pad2)">
+      <node ref="R44" pin="2" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="SCALE2" pintype="input"/>
+    </net>
+    <net code="79" name="Net-(R45-Pad2)">
+      <node ref="R45" pin="2" pintype="passive"/>
+      <node ref="R49" pin="1" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="VPWM" pintype="input"/>
+    </net>
+    <net code="80" name="Net-(R46-Pad1)">
+      <node ref="R46" pin="1" pintype="passive"/>
+      <node ref="U2" pin="14" pinfunction="VS" pintype="passive"/>
+    </net>
+    <net code="81" name="Net-(R47-Pad1)">
+      <node ref="R47" pin="1" pintype="passive"/>
+      <node ref="U3" pin="14" pinfunction="VS" pintype="passive"/>
+    </net>
+    <net code="82" name="Net-(R51-Pad1)">
+      <node ref="R51" pin="1" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="83" name="Net-(R51-Pad2)">
+      <node ref="R51" pin="2" pintype="passive"/>
+      <node ref="R54" pin="1" pintype="passive"/>
+      <node ref="R55" pin="1" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="84" name="Net-(R53-Pad1)">
+      <node ref="R53" pin="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="85" name="Net-(R53-Pad2)">
+      <node ref="R53" pin="2" pintype="passive"/>
+      <node ref="R56" pin="1" pintype="passive"/>
+      <node ref="R57" pin="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="86" name="Net-(R54-Pad2)">
+      <node ref="R54" pin="2" pintype="passive"/>
+      <node ref="SineShapeTrim1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SineShapeTrim1" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="87" name="Net-(R55-Pad2)">
+      <node ref="R55" pin="2" pintype="passive"/>
+      <node ref="SineBiasTrim1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="88" name="Net-(R56-Pad2)">
+      <node ref="R56" pin="2" pintype="passive"/>
+      <node ref="SineShapeTrim2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SineShapeTrim2" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="89" name="Net-(R57-Pad2)">
+      <node ref="R57" pin="2" pintype="passive"/>
+      <node ref="SineBiasTrim2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="90" name="Net-(R58-Pad1)">
+      <node ref="R58" pin="1" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="VP" pintype="output"/>
+    </net>
+    <net code="91" name="Net-(R59-Pad1)">
+      <node ref="R59" pin="1" pintype="passive"/>
+      <node ref="U3" pin="4" pinfunction="VP" pintype="output"/>
+    </net>
+    <net code="92" name="Net-(R62-Pad2)">
+      <node ref="R62" pin="2" pintype="passive"/>
+      <node ref="R64" pin="1" pintype="passive"/>
+      <node ref="U4" pin="6" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="93" name="Net-(R63-Pad2)">
+      <node ref="R63" pin="2" pintype="passive"/>
+      <node ref="R65" pin="1" pintype="passive"/>
+      <node ref="U5" pin="6" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="94" name="Net-(R64-Pad2)">
+      <node ref="R64" pin="2" pintype="passive"/>
+      <node ref="R68" pin="1" pintype="passive"/>
+      <node ref="SineShapeTrim1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U4" pin="7" pintype="output"/>
+    </net>
+    <net code="95" name="Net-(R65-Pad2)">
+      <node ref="R65" pin="2" pintype="passive"/>
+      <node ref="R72" pin="1" pintype="passive"/>
+      <node ref="SineShapeTrim2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U5" pin="7" pintype="output"/>
+    </net>
+    <net code="96" name="Net-(R66-Pad1)">
+      <node ref="R66" pin="1" pintype="passive"/>
+      <node ref="U4" pin="8" pintype="output"/>
+      <node ref="U4" pin="9" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="97" name="Net-(R67-Pad1)">
+      <node ref="R67" pin="1" pintype="passive"/>
+      <node ref="U4" pin="13" pinfunction="-" pintype="input"/>
+      <node ref="U4" pin="14" pintype="output"/>
+    </net>
+    <net code="98" name="Net-(R69-Pad1)">
+      <node ref="R69" pin="1" pintype="passive"/>
+      <node ref="U4" pin="1" pintype="output"/>
+      <node ref="U4" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="99" name="Net-(R70-Pad1)">
+      <node ref="R70" pin="1" pintype="passive"/>
+      <node ref="U5" pin="8" pintype="output"/>
+      <node ref="U5" pin="9" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="100" name="Net-(R71-Pad1)">
+      <node ref="R71" pin="1" pintype="passive"/>
+      <node ref="U5" pin="13" pinfunction="-" pintype="input"/>
+      <node ref="U5" pin="14" pintype="output"/>
+    </net>
+    <net code="101" name="Net-(R73-Pad1)">
+      <node ref="R73" pin="1" pintype="passive"/>
+      <node ref="U5" pin="1" pintype="output"/>
+      <node ref="U5" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="102" name="Net-(RV5-Pad1)">
+      <node ref="RV5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="7" pinfunction="VHFT" pintype="input"/>
+    </net>
+    <net code="103" name="Net-(RV6-Pad1)">
+      <node ref="RV6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="7" pinfunction="VHFT" pintype="input"/>
+    </net>
+    <net code="104" name="Net-(U2-Pad8)">
+      <node ref="U2" pin="8" pinfunction="VSO" pintype="output"/>
+      <node ref="U4" pin="12" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="105" name="Net-(U2-Pad10)">
+      <node ref="U2" pin="10" pinfunction="VTO" pintype="output"/>
+      <node ref="U4" pin="5" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="106" name="Net-(U3-Pad8)">
+      <node ref="U3" pin="8" pinfunction="VSO" pintype="output"/>
+      <node ref="U5" pin="12" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="107" name="Net-(U3-Pad10)">
+      <node ref="U3" pin="10" pinfunction="VTO" pintype="output"/>
+      <node ref="U5" pin="5" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="108" name="unconnected-(PWM1-Pad2)">
+      <node ref="PWM1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="109" name="unconnected-(PWM2-Pad2)">
+      <node ref="PWM2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="110" name="unconnected-(R1-Pad1)">
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="111" name="unconnected-(U1-Pad2)">
+      <node ref="U1" pin="2" pinfunction="DIODE_BIAS" pintype="input"/>
+    </net>
+    <net code="112" name="unconnected-(U1-Pad15)">
+      <node ref="U1" pin="15" pinfunction="DIODE_BIAS" pintype="input"/>
+    </net>
+  </nets>
+</export>
