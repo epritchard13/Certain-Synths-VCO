@@ -1,0 +1,8 @@
+Off of MFOS:
+
+The triangle waveform is fed into the circuit which uses the U5 (LM13700 or equivalent) to apply non-linear distortion which effectively approximates a sine wave. 
+R60 (Sine Bias Trim), R64 (Sine Shape Trim), and R59 (Sine Level Trim) are all used to get the best sine shape possible. 
+The figure below illustrates the effects of these pots on the waveform. Shaping circuits are never perfect and in the end if you achieve 1% distortion figure you will be very happy. 
+If you don't have a distortion analyzer use your scope and your ears to determine the best sine shape. It is interesting to adjust the waveform to where you believe it sounds best and then tweak a little. 
+You will be suprised to see how little distortion it takes to start adding overtones to the fundemental frequency. Adjust until you hear the purest tone with the least overtones. 
+Listen while sweeping the frequency with the coarse adjust knob as well. Again, try to achieve the purest tone throughout the oscillators musical range. 
