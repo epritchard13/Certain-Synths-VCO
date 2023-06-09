@@ -1,1 +1,3 @@
 Output expected to be 1.4 A
+
+06/06/2023 - Revition 2 added barrel connector to the PCB and made 12V AC and GND input pads into power conn bypass pads
