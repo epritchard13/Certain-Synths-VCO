@@ -449,8 +449,8 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
-      "specctra_dsn": "",
+      "netlist": "./",
+      "specctra_dsn": "../../../../../Desktop/DSN/as3340_no_mux.dsn",
       "step": "",
       "vrml": ""
     },
