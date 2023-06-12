@@ -5082,7 +5082,7 @@
     (property "Value" "1nf" (at 223.52 90.17 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Capacitor_SMD:C_1206_3216Metric" (at 229.87 90.17 0)
+    (property "Footprint" "Capacitor_THT:C_Radial_D5.0mm_H5.0mm_P2.00mm" (at 229.87 90.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 229.87 90.17 0)
