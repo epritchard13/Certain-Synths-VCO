@@ -20,4 +20,4 @@ The following elements are currently in development:
   - ADSR
   - MIDI to CV 
 
-If you have any questions or wish to learn more, please direct email to epritchard@vt.edu
+If you have any questions or wish to learn more, please direct email to epritchard@vt.edu or ecgobien@gmail.com
