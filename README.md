@@ -16,5 +16,8 @@ So far, we have built/are building the following components:
 The following elements are currently in development:
 
   - VCA
+  - LFO
+  - ADSR
+  - MIDI to CV 
 
 If you have any questions or wish to learn more, please direct email to epritchard@vt.edu
